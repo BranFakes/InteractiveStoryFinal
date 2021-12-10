@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interactive Story Final", "Interactive Story Final\Interactive Story Final.csproj", "{38605928-CB88-485E-86AE-9339498A55AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38605928-CB88-485E-86AE-9339498A55AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38605928-CB88-485E-86AE-9339498A55AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38605928-CB88-485E-86AE-9339498A55AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38605928-CB88-485E-86AE-9339498A55AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9D86E0-000E-4F53-BBA0-3632D338F465}
+	EndGlobalSection
+EndGlobal
